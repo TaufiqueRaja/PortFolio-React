@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7b0a21d.css",
+    "main.js": "/static/js/main.acedea85.js",
+    "static/media/Helping Hand.png": "/static/media/Helping Hand.f5a898e85f496e2b363e.png",
+    "static/media/Drum kit.png": "/static/media/Drum kit.95e67bfb297deae3f3ea.png",
+    "static/media/Pets wallah.png": "/static/media/Pets wallah.a51141b4e4b695b799fd.png",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/TO-DO List.png": "/static/media/TO-DO List.f0fe1ef7c48151d2f644.png",
+    "static/media/react1.jpg": "/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/Mathspartner.png": "/static/media/Mathspartner.6b13e4b7f42d48e14a7a.png",
+    "static/media/react2.webp": "/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/index.html",
+    "main.a7b0a21d.css.map": "/static/css/main.a7b0a21d.css.map",
+    "main.acedea85.js.map": "/static/js/main.acedea85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b0a21d.css",
+    "static/js/main.acedea85.js"
+  ]
+}
